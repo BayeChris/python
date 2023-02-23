@@ -2,7 +2,7 @@ print("********** BIENVENUE DANS NOTRE PROGRAMME **********")
 print("VOULEZ VOUS VOUS ENREGISTRER OU AFFICHER LA LISTE ?")
 print("TAPEZ [oui] POUR VOUS ENREGISTRER")
 print("TAPEZ [non] POUR AFFICHER LA LISTE DES INSCRITS")
-
+#code ajouter par koumare
 user_choice = "oui"
 
 user_choice = input("oui ou non :")
